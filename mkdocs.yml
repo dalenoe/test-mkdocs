@@ -1,6 +1,16 @@
 site_name: Test-Mkdocs
-theme: readthedocs
+site_author: Dale Noe
+site_description: "Test Mkdocs"
+site_keyword: "test mkdocs"
+
+theme: 
+  name: readthedocs
+
+badge:
+  github_repo: test-mkdocs
+  github_user: dalenoe
+
 nav:
-    - Home: index.md
-    - About: about.md
-    - Links: links.md
+  - Home: index.md
+  - About: about.md
+  - Links: links.md
