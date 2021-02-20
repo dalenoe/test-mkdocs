@@ -2,4 +2,4 @@ site_name: Test-Mkdocs
 nav:
     - Home: index.md
     - About: about.md
-
+    - Links: links.md
