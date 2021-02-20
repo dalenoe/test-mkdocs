@@ -4,7 +4,7 @@ site_description: "Test Mkdocs"
 site_keyword: "test mkdocs"
 
 theme: 
-  name: github
+  name: mkdocs
 
 badge:
   github_repo: test-mkdocs
