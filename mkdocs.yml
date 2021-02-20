@@ -4,7 +4,8 @@ site_description: "Test Mkdocs"
 site_keyword: "test mkdocs"
 
 theme: 
-  name: cinder
+  name: null
+  custom_dir: "cinder"
 
 badge:
   github_repo: test-mkdocs
