@@ -1,4 +1,5 @@
 site_name: Test-Mkdocs
+theme: readthedocs
 nav:
     - Home: index.md
     - About: about.md
