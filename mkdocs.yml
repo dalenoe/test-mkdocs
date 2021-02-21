@@ -5,7 +5,7 @@ site_keyword: "test mkdocs"
 repo_url: "https://github.com/dalenoe/test-mkdocs"
 
 
-theme: 
+theme:
   name: null
   custom_dir: "cinder"
   # Turn off Previous/Next navigation links in the navbar
@@ -15,9 +15,9 @@ theme:
   # Turn off the site_name link in the navbar
   #disable_nav_site_name: true
   # Turn off the footer entirely
-  disable_footer: true
+  #disable_footer: true
   # Turn off the default footer message, but display the page revision date if it's available
-  disable_footer_except_revision: true
+  #disable_footer_except_revision: true
 
 badge:
   github_repo: test-mkdocs
